@@ -27,7 +27,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mazen568&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
 
-### ✨ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
