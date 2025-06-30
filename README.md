@@ -3,8 +3,8 @@
 
 ---
 
-- 📫 How to reach me: **mazenraafat@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mazen-raafat-82a127255/)
+- 📫 How to reach me: **mazenraafat568@gmail.com**
+- 🔗 LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/mazen-raafat-82a127255/)
 
 
 ---
