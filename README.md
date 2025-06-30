@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mazen Raafat</h1>
-<h3 align="center">React Native Developer & Computer Science Student at FCIS - ASU</h3>
+<h3 align="center">Software engineer intrested in Front-End development</h3>
 
 ---
 
-- 🔭 I’m currently working on **AutoInsight** and a Football Prediction App  
-- 🌱 I’m currently learning **React Native animations**, Firebase, and advanced navigation
-- 💬 Ask me about **React Native, JavaScript, TypeScript**
 - 📫 How to reach me: **mazenraafat@gmail.com**
-- ⚡ Fun fact: I used to get frustrated with navigation… now I love it 🤘
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mazen-raafat-82a127255/)
+
 
 ---
 
