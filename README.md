@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning Microservices Architecture   
+- 🌱 I’m currently learning React Native   
 - 📧 **Email**: mazenraafat568@gmail.com   
 - 🔗 **LinkedIn**: [linkedin.com/in/mazen-raafat-82a127255](https://www.linkedin.com/in/mazen-raafat-82a127255/)
 
