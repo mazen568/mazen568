@@ -10,7 +10,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left" style="zoom: 1.5;">
+<p align="left" style="zoom: 2.5;">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
