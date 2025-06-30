@@ -3,9 +3,18 @@
 
 ---
 
-- 🌱 I’m currently learning React Native   
-- 📧 **Email**: mazenraafat568@gmail.com   
-- 🔗 **LinkedIn**: [linkedin.com/in/mazen-raafat-82a127255](https://www.linkedin.com/in/mazen-raafat-82a127255/)
+- 🌱 I’m currently learning React Native  
+- 📧 **Email**: mazenraafat568@gmail.com  
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mazen-raafat-82a127255/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -21,11 +30,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="Tailwind CSS" />
 </p>
 
-
 ---
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
-
----
