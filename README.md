@@ -3,7 +3,8 @@
 
 ---
 
-- 📧 **Email**: mazenraafat568@gmail.com  
+- 🌱 I’m currently learning Microservices Architecture   
+- 📧 **Email**: mazenraafat568@gmail.com   
 - 🔗 **LinkedIn**: [linkedin.com/in/mazen-raafat-82a127255](https://www.linkedin.com/in/mazen-raafat-82a127255/)
 
 ---
