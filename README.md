@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about React.js, Redux, Tailwind CSS
 - 📧 **Email**: mazenraafat568@gmail.com  
 
