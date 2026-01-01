@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Raafat</h1>
-<h3 align="center">💻 Software Engineer passionate about Front-End & Mobile App Development</h3>
+<h3 align="center">💻 Software Engineer </h3>
 
 ---
 
